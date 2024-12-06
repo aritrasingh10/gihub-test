@@ -2,3 +2,6 @@ git log
 git status
 git commit
 git add
+git remote -v
+git push origin master
+git remote set-url demo-passkey@url-of-github-repo
