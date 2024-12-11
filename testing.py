@@ -1,4 +1,11 @@
-print("Hello aritra")
+"""
+This module is a simple example for testing.
+"""
+
+print("Hello Aritra")
+
 def hello():
-  """Hello from function""" 
+    """Prints a greeting from the function."""
+    print("Hello from function")
+
 print("This is for testing")
