@@ -2,7 +2,7 @@
 This module is a simple example for testing.
 """
 
-print("Hello Aritra Singh")
+print("Hello Aritra Singh, This version 1")
 
 def hello():
     """Prints a greeting from the function."""
